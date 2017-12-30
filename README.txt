@@ -15,4 +15,4 @@ This script tokenizes text from the bash prompt, separates the tokens into monop
 3. CONTROL VOLUME: The volume of the synthesized text can range between 0.0 and 1.0. To play a synthesized string of text at volume 0.8, type the following into your console:  python synth.py -p -v 0.8 "hello”
 
 
-4. SAVE AUDIO: To save a synthesized string of text as a .wav file to your current working directory, type the following into your console:  python synth.py -o "hello”
+4. SAVE AUDIO: To save a synthesized string of text as a .wav file in your current working directory, type the following into your console:  python synth.py -o "hello”
