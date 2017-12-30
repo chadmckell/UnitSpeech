@@ -1,4 +1,4 @@
-Unit Selection text-to-speech synthesizer
+Unit Selection Text-to-Speech Synthesizer
 
 Author: Chad McKell
 Date: 01 Dec 2016
