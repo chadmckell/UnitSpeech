@@ -3,7 +3,7 @@ Unit Selection text-to-speech synthesizer
 Author: Chad McKell
 Date: 01 Dec 2016
 
-This script tokenizes text from the bash prompt, separates the tokens into monophones, then concatenates corresponding monophone wav files. Methods are contained to add pauses with punctuation and to allow the user to control the volume. See instructions below on how to use the synthesizer.
+This script tokenizes text from the bash prompt, separates the tokens into monophones, then concatenates the corresponding monophone wav files. Methods are contained to add pauses with punctuation and to allow the user to control the volume. See instructions below on how to use the synthesizer.
 
 
 1. NAVIGATE TO THE APPROPRIATE FOLDER: Before you do anything, navigate to the folder containing “synth.py” using your computer’s console.
